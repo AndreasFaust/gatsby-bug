@@ -8,4 +8,4 @@
   Gatsby Issue 13442
 </h1>
 
-[https://github.com/gatsbyjs/gatsby/issues/13442#issuecomment-484895748](See the issue here.)
+https://github.com/gatsbyjs/gatsby/issues/13442#issuecomment-484895748
